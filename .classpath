@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/test/scala"/>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME"/>
+	<classpathentry kind="var" path="LIB/htmlparser-1.3.1.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE"/>
+	<classpathentry kind="var" path="IVY_CACHE/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.5.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/net.liftweb/lift-json_2.9.1/jars/lift-json_2.9.1-2.4.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/org.scalatest/scalatest_2.9.2/jars/scalatest_2.9.2-1.7.2.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/junit/junit/jars/junit-4.10.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/org.easymock/easymock/jars/easymock-3.1.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/org.scalamock/scalamock-core_2.9.1/jars/scalamock-core_2.9.1-2.2.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/org.scalamock/scalamock-scalatest-support_2.9.1/jars/scalamock-scalatest-support_2.9.1-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
